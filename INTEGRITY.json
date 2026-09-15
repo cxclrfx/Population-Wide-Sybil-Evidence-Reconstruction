@@ -1,0 +1,14 @@
+{
+  "frozen_integrity_verification": {
+    "status": "PASS",
+    "acquisition_files_verified": 108203,
+    "run_files_verified": 229
+  },
+  "frozen_canonical_production_check": {
+    "tracked_files_checked": 229,
+    "changed_files": 0,
+    "status": "PASS"
+  },
+  "release_checksum_algorithm": "SHA-256",
+  "release_files_covered": 5
+}

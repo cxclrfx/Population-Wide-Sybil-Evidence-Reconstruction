@@ -1,0 +1,27 @@
+{
+  "donors": 9991,
+  "acquisition": {
+    "complete": 9991,
+    "partial": 0,
+    "failed": 0,
+    "not_queried": 0
+  },
+  "observed_source_events": 529017,
+  "admitted_events": 529016,
+  "events_excluded_missing_token_decimals": 1,
+  "evidence_relationships": 340631,
+  "accepted_evidence_edges": 8387,
+  "informational_edges": 332244,
+  "reconstructed_clusters": 471,
+  "cluster_members": 2684,
+  "wallets_surfaced_for_review": 4279,
+  "accepted_edge_evidence_family_occurrences": {
+    "temporal": 23114,
+    "amount": 7777,
+    "funding": 6097,
+    "sink": 5089,
+    "route_behavior": 1313
+  },
+  "recorded_analysis_runtime_seconds": 292.453,
+  "recorded_acquisition_runtime_seconds": 13227.844
+}
